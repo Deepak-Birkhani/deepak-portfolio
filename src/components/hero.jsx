@@ -45,7 +45,7 @@ export default function Hero() {
   <ParticlesBackground />
 
 
-      <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-4">
+      <h1 className="text-5xl md:text-6xl font-bold text-gray-500 mb-4">
         Hi, I’m{" "}
         <span className="text-indigo-600 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-pink-500">
           Deepak Birkhani

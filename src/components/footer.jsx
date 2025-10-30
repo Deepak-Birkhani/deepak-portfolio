@@ -12,7 +12,7 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold text-white mb-2">Quick Links</h4>
           <ul className="space-y-1 text-sm">
-            {["Home","About","Education","Skills","Projects","Certifications","Contact"].map(l=>(
+            {["Home","About","Education","Skills","Projects","Certificates","Contact"].map(l=>(
               <li key={l}><a href={`#${l.toLowerCase()}`} className="hover:text-indigo-400">{l}</a></li>
             ))}
           </ul>
