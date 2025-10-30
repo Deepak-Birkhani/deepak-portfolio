@@ -1,13 +1,13 @@
 import { Toaster } from "react-hot-toast";
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Education from "./components/Education";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import About from "./components/about";
+import Education from "./components/education";
 import Skills from "./components/skills";
 import Projects from "./components/projects";
 import Certificates from "./components/certificates";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 import AnimatedSection from "./components/AnimatedSection";
 import Loader from "./components/Loader";
 
